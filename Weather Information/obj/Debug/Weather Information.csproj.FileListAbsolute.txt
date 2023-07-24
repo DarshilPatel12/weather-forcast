@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\obj\Debug\Weather Information.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\obj\Debug\Weather_Information.Form1.resources
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\obj\Debug\Weather_Information.Form2.resources
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\obj\Debug\Weather_Information.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\obj\Debug\Weather Information.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\obj\Debug\Weather Information.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\bin\Debug\Weather Information.exe.config
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\bin\Debug\Weather Information.exe
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\bin\Debug\Weather Information.pdb
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\obj\Debug\Weather Information.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\obj\Debug\Weather Information.exe
+C:\Users\LENOVO\source\repos\Weather Information\Weather Information\obj\Debug\Weather Information.pdb
